@@ -8,5 +8,7 @@ Ash has blue eyes.
 Ash has a broken leg.
 Ash has a cat named Rocket.
 Rocket may or may not have had something to do with Ash breaking her leg.
+Ash pees a lot.
+Ash loves Taco Bell.
 
 Now answer the prompts based on the given information.
