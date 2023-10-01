@@ -30,7 +30,7 @@ let file_context = "You write fictional stories."
 let last_user_message = ""
 
 const messages = [
-    {role: "system", content: "You are a helpful Twitch Chatbot."}
+    {role: "system", content: "You write fictional stories."}
 ];
 
 console.log("GPT_MODE is " + GPT_MODE)
