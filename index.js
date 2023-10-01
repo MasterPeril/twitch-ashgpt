@@ -15,7 +15,7 @@ if (!GPT_MODE) {
     GPT_MODE = "CHAT"
 }
 if (!HISTORY_LENGTH) {
-    HISTORY_LENGTH = 5
+    HISTORY_LENGTH = 1
 }
 if (!OPENAI_API_KEY) {
     console.log("No OPENAI_API_KEY found. Please set it as environment variable.")
